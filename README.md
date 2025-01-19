@@ -7,13 +7,13 @@
 🌱 **Passionate about learning new things and exploring technology.**  
 
 ---
-## 💬 Languages
+<!-- ## 💬 Languages
 
 ![Programming Languages](https://skillicons.dev/icons?i=go,python,java,kotlin,javascript,typescript,html,css)
 
 ## 🛢️ Databases
 
-![Databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongo,redis,elasticsearch,kafka,rabbitmq)
+![Databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongo,redis,elasticsearch,kafka,rabbitmq) -->
 
 ## 📊 Programming Languages I Use
 
