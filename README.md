@@ -1,17 +1,19 @@
 # Hi, I'm Dikhi Martin 👋
 
+[![wakatime](https://wakatime.com/badge/user/6107bfd2-2e56-4e0a-b828-3e2ef709217d.svg)](https://wakatime.com/@6107bfd2-2e56-4e0a-b828-3e2ef709217d)
+[![github](https://img.shields.io/github/followers/dikhimartin?logo=github&style=plastic)](https://github.com/dikhimartin?tab=followers)
+
 🤖 **I'm a Software Engineer**  
 🌱 **Passionate about learning new things and exploring technology.**  
 
 ---
+## 💬 Languages
 
-## 💻 About Me
-- 🚀 Experienced in **Backend Development** and **Mobile Development**.
-- 🛠️ Skilled in programming languages such as **Golang**, **JavaScript**, **PHP**, and **Dart (Flutter)**.
-- 🌐 Enthusiast in **Cloud Computing**, **IoT**, and **Software Architecture**.
-- 🎯 Always open to learning new technologies and contributing to open-source projects.
+![Programming Languages](https://skillicons.dev/icons?i=go,python,java,kotlin,javascript,typescript,html,css)
 
----
+## 🛢️ Databases
+
+![Databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongo,redis,elasticsearch,kafka,rabbitmq)
 
 ## 📊 Programming Languages I Use
 
