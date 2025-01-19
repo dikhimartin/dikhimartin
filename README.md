@@ -41,7 +41,8 @@
 
 <!-- ![Github Commit](https://github-readme-stats.vercel.app/api?username=dikhimartin&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true) -->
 
-![Github Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dikhimartin&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- ![Github Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dikhimartin&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+<figure><embed src="https://wakatime.com/share/@6107bfd2-2e56-4e0a-b828-3e2ef709217d/862854ef-14cd-44fa-b532-c5746134bea9.svg"></embed></figure>
 
 ---
 
@@ -49,7 +50,7 @@
 
 ![Github Trophies](https://github-profile-trophy.vercel.app/?username=dikhimartin&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
----
+<!-- --- -->
 
 <!-- ## 🐍 GitHub Contribution Snake -->
 
@@ -59,14 +60,14 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/dikhimartin/dikhimartin/output/github-snake.svg" />
 </picture> -->
 
----
+<!-- --- -->
 
 <!-- ## 🚀 Future Plans
 - 💡 Deepen expertise in **Microservices Architecture** and **Cloud-Native Applications**.
 - 🔬 Continue exploring **IoT** and its applications in **Smart Farming**.
 - 🌱 Stay active in the open-source community and contribute to impactful projects. -->
 
----
+<!-- --- -->
 
 <!-- > *"The best way to predict the future is to create it." – Abraham Lincoln* -->
 
