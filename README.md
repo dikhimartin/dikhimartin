@@ -1,72 +1,42 @@
-# 👋 Hi there! Welcome to my GitHub profile!
+# Hi, I'm Dikhi Martin 👋
 
-I'm [Your Name], a passionate **[Your Field]** enthusiast with a focus on **[specific areas of expertise, e.g., IoT, smart farming, AI, etc.]**. I thrive on building innovative solutions that combine cutting-edge technology and practical applications. 
+🤖 I'm a Software Engineer
 
----
+😁 I like to learn new thing
 
-## 🌟 About Me
-- 🎓 **Background:** [Your educational background, e.g., Computer Science graduate, IoT researcher, etc.]
-- 🧠 **Interests:** [List your interests, e.g., IoT, smart farming, AI, data science, open-source projects]
-- 🚀 **Current Research:** Implementation of IoT in Smart Farming
-- 🌍 **Mission:** Innovating technology to optimize the agricultural sector.
+[![Visit Count](https://visitcount.itsvg.in/api?id=dikhimartin&icon=5&color=6)](https://visitcount.itsvg.in)
 
----
+## 💬 Languages
+
+![Programming Languages](https://skillicons.dev/icons?i=go,python,java,kotlin,javascript,typescript,html,css)
+
+## 🛢️ Databases
+
+![Databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongo,redis,elasticsearch,kafka,rabbitmq)
+
+## 📸 Social Media
+
+[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dikhimartin)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordan-marcelino)
+[![CodeForces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/jordanbro)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/Jordannn)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/jordannn/)
 
 ## 📊 GitHub Stats
 
-Here’s a quick overview of my GitHub activities:
+![Github Commit](https://github-readme-stats.vercel.app/api?username=dikhimartin&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Github Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dikhimartin&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+## 🏆 GitHub Trophies
 
----
-
-## 🛠️ Technologies & Tools
-Here are the tools and technologies I frequently use:
-
-- Programming: `Python`, `C++`, `JavaScript`
-- IoT: `Raspberry Pi`, `Arduino`, `ESP32`
-- Development Tools: `Git`, `Docker`, `VS Code`
-- Cloud Platforms: `AWS`, `Google Cloud`
-- Data Analysis: `Pandas`, `NumPy`, `MATLAB`
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=dikhimartin&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
-## 📚 Featured Projects
-Here are some of my notable projects:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dikhimartin/dikhimartin/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dikhimartin/dikhimartin/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/dikhimartin/dikhimartin/output/github-snake.svg" />
+</picture>
 
-1. **[Digital Scale System for Smart Farming](#)**  
-   🚜 *An IoT-enabled digital scale system integrated with smartphones for agricultural optimization.*
-   
-2. **[Smart Greenhouse Automation](#)**  
-   🌱 *Automating environmental control using IoT for optimized crop production.*
-
-3. **[Machine Learning for Crop Prediction](#)**  
-   🤖 *Leveraging AI to predict crop yields based on environmental conditions.*
-
-Check out more on my [GitHub repositories](https://github.com/your-username?tab=repositories)!
-
----
-
-## 📬 Get in Touch
-I'm always open to collaboration and discussions!  
-
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)  
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-- 🌐 Portfolio: [your-portfolio-link](https://your-portfolio-link)  
-
-Feel free to connect, and let’s innovate together!  
-
----
-
-> *“Technology is best when it brings people together.” – Matt Mullenweg*  
-
----
-
-## 🔄 Dynamic Elements
-
-You can enhance this README with dynamic content using services like:
-- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-- [GitHub Activity Graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
-- [GitHub Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter)
