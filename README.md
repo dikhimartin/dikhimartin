@@ -44,7 +44,7 @@
 <!-- ![Github Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dikhimartin&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 <figure><embed src="https://wakatime.com/share/@6107bfd2-2e56-4e0a-b828-3e2ef709217d/862854ef-14cd-44fa-b532-c5746134bea9.svg"></embed></figure>
 
----
+<!-- --- -->
 
 ## 🏆 GitHub Trophies
 
