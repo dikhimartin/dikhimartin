@@ -25,7 +25,7 @@
 
 ![Databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongo,redis,elasticsearch,kafka,rabbitmq)
 
----
+<!-- --- -->
 
 <!-- ## 🌐 Social Media
 
