@@ -15,5 +15,5 @@
 
 ## 📊 Programming Languages I Use
 
-![This is a visualization of my programming languages usage](https://wakatime.com/share/@6107bfd2-2e56-4e0a-b828-3e2ef709217d/862854ef-14cd-44fa-b532-c5746134bea9.svg)  
+[![This is a visualization of my programming languages usage](https://wakatime.com/share/@6107bfd2-2e56-4e0a-b828-3e2ef709217d/862854ef-14cd-44fa-b532-c5746134bea9.svg)](https://wakatime.com/share/@6107bfd2-2e56-4e0a-b828-3e2ef709217d/862854ef-14cd-44fa-b532-c5746134bea9)
 *Click the image to redirect to the detailed WakaTime page.*
