@@ -15,8 +15,13 @@
 
 ## 📊 Programming Languages I Use
 
-[![This is a visualization of my programming languages usage](https://wakatime.com/share/@6107bfd2-2e56-4e0a-b828-3e2ef709217d/862854ef-14cd-44fa-b532-c5746134bea9.svg)](https://wakatime.com/share/@6107bfd2-2e56-4e0a-b828-3e2ef709217d/862854ef-14cd-44fa-b532-c5746134bea9.svg)  
+<!-- All the time -->
+[![Programming Languages - All the time](https://wakatime.com/share/@6107bfd2-2e56-4e0a-b828-3e2ef709217d/862854ef-14cd-44fa-b532-c5746134bea9.svg)](https://wakatime.com/share/@6107bfd2-2e56-4e0a-b828-3e2ef709217d/862854ef-14cd-44fa-b532-c5746134bea9.svg)  
 *Click the image to redirect to the detailed WakaTime page.*
+
+<!-- Last 30 days -->
+[![Programming Languages - Last 30 Days](https://wakatime.com/share/@6107bfd2-2e56-4e0a-b828-3e2ef709217d/2ae3f053-38d6-4f10-ac15-0b5a2d850272.svg)](https://wakatime.com/share/@6107bfd2-2e56-4e0a-b828-3e2ef709217d/2ae3f053-38d6-4f10-ac15-0b5a2d850272.svg)  
+*Click the image to see my last 30 days' programming activity on WakaTime.*
 
 ---
 
