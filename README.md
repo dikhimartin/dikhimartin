@@ -25,6 +25,10 @@
 [![Programming Languages - Last 30 Days](https://wakatime.com/share/@6107bfd2-2e56-4e0a-b828-3e2ef709217d/2ae3f053-38d6-4f10-ac15-0b5a2d850272.svg)](https://wakatime.com/share/@6107bfd2-2e56-4e0a-b828-3e2ef709217d/2ae3f053-38d6-4f10-ac15-0b5a2d850272.svg)  
 *Click the image to see my last 30 days' programming activity on WakaTime.*
 
+<!-- Last 7 days -->
+[![Programming Languages - Last 7 Days](https://wakatime.com/share/@dikhimartin/68328a35-9944-4bf7-9a0a-e989eb844265.svg)](https://wakatime.com/share/@dikhimartin/68328a35-9944-4bf7-9a0a-e989eb844265.svg)  
+*Click the image to see my last 7 days' programming activity on WakaTime.*
+
 ---
 
 ## ⌨️ Coding Activity
